@@ -2,7 +2,7 @@
 
 Unpopular opinion, forget about Jest! 😔
 
-I'm very sad to say this, because I have used it a lot in the past, and for a long time I considered it the best framework to test Node.js application.
+I'm very sad to say this, because I have used it a lot in the past, and for a long time I considered it the best framework to test Node.js applications.
 
 ### Memory leaks
 It suffers from serious memory leaks -> https://github.com/facebook/jest/issues/11956
