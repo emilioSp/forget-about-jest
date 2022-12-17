@@ -1,0 +1,23 @@
+{
+  "name": "jest-sucks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "assert": "node assert.test.mjs",
+    "jest": "jest jest.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilioSp/jest-sucks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilioSp/jest-sucks/issues"
+  },
+  "homepage": "https://github.com/emilioSp/jest-sucks#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
