@@ -28,5 +28,5 @@ Jest is slower compared to other test framework like TAP.
 
 ## Future 🤔
 
-If is up to me I won't use Jest anymore to test Node.js application. IMO we should embrace Node.js test framework shipped starting from v18 version 🚀
+If is up to me I won't use Jest anymore to test Node.js applications. IMO we should embrace Node.js test framework shipped starting from v18 version 🚀
 👉 https://nodejs.org/docs/latest-v18.x/api/test.html
