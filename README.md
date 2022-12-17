@@ -24,9 +24,9 @@ and then
 Thanks to Matteo Collina for sharing this https://www.twitch.tv/matteocollina/clip/CleverResourcefulFennelBabyRage-oGUFchiE1SAJIApU
 
 ### Bonus track
-Jest is slower compared to other test framework like TAP.
-
+Jest is slower compared to other test frameworks like TAP.
+x
 ## Future 🤔
 
-If is up to me I won't use Jest anymore to test Node.js applications. IMO we should embrace Node.js test framework shipped starting from v18 version 🚀
+If it is up to me I won't use Jest anymore to test Node.js applications. IMO we should embrace Node.js test framework shipped starting from v18 version 🚀
 👉 https://nodejs.org/docs/latest-v18.x/api/test.html
